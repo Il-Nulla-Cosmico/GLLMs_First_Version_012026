@@ -12,7 +12,7 @@ library(performance)
 
 # SOURCE CUSTOM FUNCTIONS #
 # Loading the analysis functions defined in the helper file
-source("funzioni_analisi.R")
+source("functions.R")
 
 # --- INPUT SECTION ---
 # Define the path to your experimental dataset
